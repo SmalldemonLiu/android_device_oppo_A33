@@ -28,11 +28,11 @@ TARGET_BOARD_PLATFORM_VARIANT := msm8916
 
 # Set those variables here to overwrite the inherited values.
 TARGET_VENDOR := Oppo
-PRODUCT_DEVICE := A37
-PRODUCT_NAME := lineage_A37
+PRODUCT_DEVICE := A33
+PRODUCT_NAME := lineage_A33
 BOARD_VENDOR := Oppo
 PRODUCT_BRAND := Oppo
-PRODUCT_MODEL := A37
+PRODUCT_MODEL := A33
 PRODUCT_MANUFACTURER := Oppo
 
 # GMS
